@@ -78,22 +78,20 @@ Application de gestion d'universite (cours, emplois du temps, fees,...) pour les
 
 |       Noms                  |         Position & travail            |        
 | -------------               | ------------------------------------  |
-| SBAI Salah                  | Chef de projet & Code Controlleurs    |
-| MHARZI Chaymae              | Partie Student (Views)                |
-| ZIANI Imane                 | Partie Student (Views)                |
-| SGHIOURI el idrissi Mohammed| Partie Admin (Views)                  |
-| EL BOUZYANI Intissar        | Partie Admin (Views)                  |
-| EL MOURABIT Mohammed        | Partie Faculty (Views) & Design       |
-| FAKIHI MOUAD                | Partie Faculty (Views) & Design       |
+| SBAI Salah                  | Code Controlleurs                     |
+| MHARZI Chaymae              | Partie Student                        |
+| ZIANI Imane                 | Partie Student                        |
+| SGHIOURI el idrissi Mohammed| Partie Admin                          |
+| EL BOUZYANI Intissar        | Partie Admin                          |
+| EL MOURABIT Mohammed        | Partie Faculty                        |
+| FAKIHI MOUAD                | Partie Faculty                        |
 
+### Technologies
 
-
-
-
-
-
-
-
-
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![JavaFX](https://img.shields.io/badge/JavaFX-0496D7?style=for-the-badge&labelColor=black&logo=java&logoColor=0496D7)
+![Scene Builder](https://img.shields.io/badge/Scene%20Builder-05962D?style=for-the-badge&labelColor=black&logo=java&logoColor=05962D)
+![JDBC](https://img.shields.io/badge/JDBC-006699?style=for-the-badge&labelColor=black&logo=java&logoColor=006699)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 
